@@ -42,7 +42,12 @@
   </p>
   
   #### Monitoring & Tools
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,datadog,elasticsearch,grafana" alt="Monitoring & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,grafana,prometheus" alt="Version Control & Monitoring" />
+  <p>
+    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  </p>
 </div>
 
 <!-- Projects Section -->
@@ -121,7 +126,7 @@
   > *"Every line of code should serve a purpose. Every system should be designed for scale. Every automation should make life easier."*
 </div>
 
-<!-- Social Media --> 
+<!-- Social Media -->
 <div align="center">
   <h2>Connect With Me</h2>
   
