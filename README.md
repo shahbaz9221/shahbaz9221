@@ -108,7 +108,7 @@
   ![DevOps](https://img.shields.io/badge/DevOps-Pipeline-10B981?style=for-the-badge&logo=docker&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/CI%2FCD-Infrastructure-F59E0B?style=for-the-badge&logo=github&logoColor=white)
   
-  ### **Learning Goals**
+  ### **Learning**
   ![Go](https://img.shields.io/badge/Go-Microservices-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Cloud](https://img.shields.io/badge/Cloud-Native-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Data](https://img.shields.io/badge/Data-Engineering-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
