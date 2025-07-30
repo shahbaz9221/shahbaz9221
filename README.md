@@ -28,7 +28,7 @@
   <h2>Tech Stack</h2>
   
   #### Programming Languages & Frameworks
-  <img src="https://skillicons.dev/icons?i=python,django,flask,go,cpp,yaml" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,yaml" alt="Languages & Frameworks" />
   
   #### Cloud & Infrastructure
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform" alt="Cloud & Infrastructure" />
