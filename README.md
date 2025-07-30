@@ -1,28 +1,136 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&pause=1500&color=6366F1&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;I'm+Shahbaz+Raza;Software+Engineer+%F0%9F%9A%80;Backend+Architect+%F0%9F%8C%9F;DevOps+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
+<!-- Introduction -->
+<div align="center">
+  <h1>Hello, I'm Shahbaz Raza</h1>
+  <h3>Software Engineer</h3>
+  
+  [![Email](https://img.shields.io/badge/Email-shahbazraza9221%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shahbazraza9221@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/shahbaz9221?logo=github&style=flat-square&color=6366F1&labelColor=1f2937)](https://github.com/shahbaz9221)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-shahbazraza9221-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shahbazraza9221/)
+  ![Profile Views](https://komarev.com/ghpvc/?username=shahbaz9221&style=flat-square&color=6366F1)
+</div>
 
-# 💫 About Me:
-🔭 I’m currently working on Automation<br>👯 I’m looking to collaborate on desgining scalable Backends<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning GO<br>💬 Ask me about<br>⚡ Fun fact
+<!-- GitHub Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahbaz9221/shahbaz9221/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahbaz9221/shahbaz9221/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shahbaz9221/shahbaz9221/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+<!-- Technologies -->
+<div align="center">
+  <h2>Tech Stack</h2>
+  
+  #### Programming Languages & Frameworks
+  <img src="https://skillicons.dev/icons?i=python,django,flask,go,cpp,yaml" alt="Languages & Frameworks" />
+  
+  #### Cloud & Infrastructure
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform" alt="Cloud & Infrastructure" />
+  
+  #### Databases & Storage
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  </p>
+  
+  #### Monitoring & Tools
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,datadog,elasticsearch,grafana" alt="Monitoring & Tools" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahbazraza9221/) 
+<!-- Projects Section -->
+<div align="center">
+  <h2>Featured Projects</h2>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/shahbaz9221/TTS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbaz9221&repo=TTS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=ffffff" alt="TTS"/>
+          <b>TTS - Text-to-Speech Toolkit</b>
+        </a>
+        <p>Deep learning toolkit for Text-to-Speech, battle-tested in research and production</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/shahbaz9221/meter-wether-report-cache-based-backend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbaz9221&repo=meter-wether-report-cache-based-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=ffffff" alt="Weather Backend"/>
+          <b>Weather Report Backend</b>
+        </a>
+        <p>Cache-based backend system for weather reporting</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/shahbaz9221/Scrapy-Lambda-Deployment">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbaz9221&repo=Scrapy-Lambda-Deployment&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=ffffff" alt="Scrapy Lambda"/>
+          <b>Scrapy Lambda Deployment</b>
+        </a>
+        <p>AWS Lambda deployment for Scrapy web scraping</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/shahbaz9221/Movie-Recommendation-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbaz9221&repo=Movie-Recommendation-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=ffffff" alt="Movie Recommendation"/>
+          <b>Movie Recommendation System</b>
+        </a>
+        <p>User-based and movie-based recommendation system</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/shahbaz9221/ChessGame">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbaz9221&repo=ChessGame&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=ffffff" alt="Chess Game"/>
+          <b>Chess Game</b>
+        </a>
+        <p>Complete chess game implementation in C++</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/shahbaz9221/Patient-Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbaz9221&repo=Patient-Analysis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=ffffff" alt="Patient Analysis"/>
+          <b>Patient Analysis</b>
+        </a>
+        <p>Healthcare data analysis and patient insights</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=plastic&logo=celery&logoColor=ddf4a4) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![AIOHTTP](https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=plastic&logo=aiohttp&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=plastic&logo=InfluxDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=plastic&logo=rancher&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahbaz9221&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahbaz9221&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz9221&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Current Focus -->
+<div align="center">
+  <h2>Current Focus</h2>
+  
+  ### **Active Projects**
+  ![Automation](https://img.shields.io/badge/Automation-Orchestration-6366F1?style=for-the-badge&logo=robot&logoColor=white)
+  ![DevOps](https://img.shields.io/badge/DevOps-Pipeline-10B981?style=for-the-badge&logo=docker&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-Infrastructure-F59E0B?style=for-the-badge&logo=github&logoColor=white)
+  
+  ### **Learning Goals**
+  ![Go](https://img.shields.io/badge/Go-Microservices-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Cloud](https://img.shields.io/badge/Cloud-Native-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Data](https://img.shields.io/badge/Data-Engineering-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shahbaz9221&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4)
+<!-- Philosophy -->
+<div align="center">
+  <h2>Philosophy</h2>
+  
+  > *"Every line of code should serve a purpose. Every system should be designed for scale. Every automation should make life easier."*
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<!-- Social Media --> 
+<div align="center">
+  <h2>Connect With Me</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahbazraza9221/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahbaz9221)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbazraza9221@gmail.com)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shahbaz9221&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=shahbaz9221&icon=5&color=12)](https://visitcount.itsvg.in)
+<!-- Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Ready+to+build+something+amazing%3F+%F0%9F%9A%80;Let's+create+the+future+together!+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
